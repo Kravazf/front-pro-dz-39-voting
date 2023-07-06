@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.wrapSmile > button {
+    margin: 5px 10px;
+    background-color: blue;
+}
+
+.wrapNumbers {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.wrapNumbers > p {
+    margin: 5px 21px;
+}
+
